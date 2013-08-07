@@ -8,7 +8,7 @@ For instance, here's what the Conflict-of-Interest Crayon crayon found in a *Pos
 
 ##How to install the Crayon
 
-To install the bookmarklet, [follow the instructions on this page](http://coreyp.github.io/The-Bezos-Post-Conflict-of-Interest-Crayon/) 
+To install the bookmarklet, [follow the instructions on this page](http://coreyp.github.io/The-Bezos-Post-Conflict-of-Interest-Crayon/).
 
 After you've added the bookmarklet to your browser, head on over to [washingtonpost.com](http://www.washingtonpost.com/). 
 
@@ -16,7 +16,9 @@ Now click on the bookmarklet while viewing any *Post* article or section front, 
 
 After a brief delay for processing, the **Bezos-Post Conflict-of-Interest Crayon** should highlight your electronic copy of the *Post* with yellow streaks of skepticism. 
 
-Sometimes a question mark will appear next to your cursor when you hover over a highlight. If that happens, it means you can click on the highlighted word for some additional explanation. Thus:
+Sometimes a large question mark will appear next to your cursor when you hover over a highlight. 
+
+If that happens, it means you can click on the highlighted word for some additional explanation. As below:
 
 ![WaPo screenshot](https://raw.github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/master/AmazonWaPo2.jpg)
 
@@ -45,7 +47,7 @@ A few sources are listed in the wiki; it would be nice if people wanted to help 
 
 ###How to contribute
 
-Please suggest additional conflicts [in the wiki](https://github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/wiki/Running-list-of-potential-ownership-related-conflicts-for-the-Washington-Post) or, if you don't have a GitHub account, by [email, here](http://coreypein.net/blog/2013/08/07/bezos-post-conflicts-of-interest/). 
+Please suggest additional conflicts [in the wiki](https://github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/wiki/Running-list-of-potential-ownership-related-conflicts-for-the-Washington-Post) or, if you don't have a GitHub account, by [email, here](mailto:publicpein+comments@airpost.net?subject=Bezos-Post). 
 
 If I like a suggestion, I'll add it to the script at this repo, which will automatically update the bookmarklet for all users.  
 
@@ -69,6 +71,8 @@ The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_
 > Employees must promptly and fully disclose to their managers any circumstances they become aware of that could possibly be viewed as creating a conflict of interest, even if the individual employee does not believe that his/her objectivity is being compromised in any way by those circumstances.
 
 Bezos's business holdings are far, far greater than those of the newspaper's previous owners, as are his lobbying efforts. The *Post*'s coverage demands a new degree of scrunity, especially when it covers stories which could affect the fortunes of its new owner.
+
+I explained more about my rationale for creating the Conflict-of-Interest Crayon [on my website, here](http://coreypein.net/blog/2013/08/07/bezos-post-conflicts-of-interest).
 
 ###Crayon colors
 
