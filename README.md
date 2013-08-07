@@ -30,13 +30,14 @@ The words and phrases identified as potential conflicts of interest are listed i
 I came up with the initial list of approximately 440 keywords based on a couple of hours worth of research on Wikipedia, news websites, NASDAQ, the Securities and Exchange Commission and the Sunlight Foundation's wonderful [Influence Explorer](http://influenceexplorer.com/), which aggregates public records on campaign finance, lobbying, federal regulation and more.
 
 So far the list contains the following:
-* people closely related, in one way or another, to Bezos; 
-* companies with which Amazon or another Bezos company does business; 
-* companies which compete with Amazon or another Bezos company; 
-* industries, sectors and product categories which make Amazon and Bezos a significant amount of money; 
-* companies and people which have sued or are being sued by Amazon or Bezos; 
-* politicians and causes supported or opposed, financially or otherwise, by Bezos or Amazon;
-* common sense extrapolations drawn from the above.
+
+- people closely related, in one way or another, to Bezos; 
+- companies with which Amazon or another Bezos company does business; 
+- companies which compete with Amazon or another Bezos company; 
+- industries, sectors and product categories which make Amazon and Bezos a significant amount of money; 
+- companies and people which have sued or are being sued by Amazon or Bezos; 
+- politicians and causes supported or opposed, financially or otherwise, by Bezos or Amazon;
+- common-sense extrapolations drawn from the above.
 
 
 The list is by no means complete. It contains a number of redundancies and likely also some inaccuracies. It could be much, much better. 
@@ -69,6 +70,10 @@ The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_
 > Employees must promptly and fully disclose to their managers any circumstances they become aware of that could possibly be viewed as creating a conflict of interest, even if the individual employee does not believe that his/her objectivity is being compromised in any way by those circumstances.
 
 Bezos's business holdings are far, far greater than those of the newspaper's previous owners, as are his lobbying efforts. The *Post*'s coverage demands a new degree of scrunity, especially when it covers stories which could affect the fortunes of its new owner.
+
+###Crayon colors
+
+Sorry, **The Bezos-Post Conflict-of-Interest Crayon** is available in yellow only.
 
 ---
 ###Technical details

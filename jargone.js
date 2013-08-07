@@ -1,8 +1,8 @@
 /*
- * Jargone
+ * The Bezos-Post Conflict-of-Interest Crayon
  * 
- * Highlight jargon on the page. Jargon, begone.
- * Roo Reynolds | rooreynolds.com | @rooreynolds
+ * A bookmarklet that helps track the consequences of media consolidation.
+ * Forked by @coreypein from Jargone by @rooreynolds
  * 
  * [NB: jargone.js is built using build.sh. Expect changes here to be overwritten]
  */
