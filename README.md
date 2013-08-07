@@ -1,8 +1,14 @@
-#Jargone
+#The Bezos-Post Conflict-of-Interest Crayon
 
-Jargone is [a bookmarklet](http://rooreynolds.github.com/jargone/) for highlighting [jargon words](https://www.gov.uk/designprinciples/styleguide#item_4_1_3) on any page.
+This bookmarklet highlights subjects, companies and people which now pose an actual or potential conflict of interest for reporters at the Jeff Bezos-owned Washington Post.
 
-<a href="http://www.flickr.com/photos/rooreynolds/8435984971/"><img src="http://farm9.staticflickr.com/8510/8435984971_e3f76721c0_o.png" width="757" height="547"></a>
+For instance: 
+
+{% image AmazonWaPo1.jpg %}
+
+You can double-click on some highlighted words for a brief explanation, thus:
+
+{% image AmazonWaPo2.jpg %}
 
 ##Installation
 
@@ -17,4 +23,5 @@ To add to the jargon list:
  - rebuild using `./build.sh`
  - the resulting new `jargone.js` can then be committed to GitHub
  
- 
+Based on [Jargone](http://rooreynolds.github.com/jargone/) by [Roo Reynolds](http://rooreynolds.com/about/).
+
