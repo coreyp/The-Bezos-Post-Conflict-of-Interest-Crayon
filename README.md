@@ -2,16 +2,15 @@
 
 The Conflict-of-Interest Crayon is a bookmarklet that highlights subjects, companies and people which now, all of a sudden, pose an actual or potential [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest) for employees at [the Jeff Bezos-owned *Washington Post*](http://www.siliconvalleywatcher.com/mt/archives/2013/08/uncomfortable_facts_a.php).
 
-For instance, here's what **The Bezos-Post Conflict-of-Interest Crayon
-** crayon found in a *Post* [story]((http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/06/heres-what-amazon-lobbies-for-in-d-c/) about the lobbying activities of Bezos's main company, Amazon: 
+For instance, here's what the Conflict-of-Interest Crayon crayon found in a *Post* [story]((http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/06/heres-what-amazon-lobbies-for-in-d-c/) about the lobbying activities of Bezos's main company, Amazon: 
 
 ![WaPo screenshot](https://raw.github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/master/AmazonWaPo1.jpg)
 
 ##How to install the Crayon
 
-To install the bookmarklet, [follow the instructions on this page](LINKTK). 
+To install the bookmarklet, [follow the instructions on this page](http://coreyp.github.io/The-Bezos-Post-Conflict-of-Interest-Crayon/) 
 
-After you've dragged the bookmarklet into your browser's bookmarks bar, head on over to [washingtonpost.com](http://www.washingtonpost.com/). 
+After you've added the bookmarklet to your browser, head on over to [washingtonpost.com](http://www.washingtonpost.com/). 
 
 Now click on the bookmarklet while viewing any *Post* article or section front, including the home page.
 
@@ -31,13 +30,13 @@ I came up with the initial list of approximately 440 keywords based on a couple 
 
 So far the list contains the following:
 
-- people closely related, in one way or another, to Bezos; 
-- companies with which Amazon or another Bezos company does business; 
-- companies which compete with Amazon or another Bezos company; 
-- industries, sectors and product categories which make Amazon and Bezos a significant amount of money; 
-- companies and people which have sued or are being sued by Amazon or Bezos; 
-- politicians and causes supported or opposed, financially or otherwise, by Bezos or Amazon;
-- common-sense extrapolations drawn from the above.
+* people closely related, in one way or another, to Bezos; 
+* companies with which Amazon or another Bezos company does business; 
+* companies which compete with Amazon or another Bezos company; 
+* industries, sectors and product categories which make Amazon and Bezos a significant amount of money; 
+* companies and people which have sued or are being sued by Amazon or Bezos; 
+* politicians and causes supported or opposed, financially or otherwise, by Bezos or Amazon;
+* common-sense extrapolations drawn from the above.
 
 
 The list is by no means complete. It contains a number of redundancies and likely also some inaccuracies. It could be much, much better. 
@@ -46,7 +45,7 @@ A few sources are listed in the wiki; it would be nice if people wanted to help 
 
 ###How to contribute
 
-Please suggest additional conflicts [in the wiki](https://github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/wiki/Running-list-of-potential-ownership-related-conflicts-for-the-Washington-Post) or, if you don't have a GitHub account, by [TK, here](LINKTK). 
+Please suggest additional conflicts [in the wiki](https://github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/wiki/Running-list-of-potential-ownership-related-conflicts-for-the-Washington-Post) or, if you don't have a GitHub account, by [email, here](http://coreypein.net/blog/2013/08/07/bezos-post-conflicts-of-interest/). 
 
 If I like a suggestion, I'll add it to the script at this repo, which will automatically update the bookmarklet for all users.  
 
