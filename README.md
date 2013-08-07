@@ -1,16 +1,15 @@
 ##The Bezos-Post Conflict-of-Interest Crayon
 
-The Conflict-of-Interest Crayon is a bookmarklet that highlights subjects, companies and people which now pose an actual or potential conflict of interest for reporters at the Jeff Bezos-owned Washington Post.
+The Conflict-of-Interest Crayon is a bookmarklet that highlights subjects, companies and people which now, all of a sudden, pose an actual or potential [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest) for employees at [the Jeff Bezos-owned *Washington Post*](http://www.siliconvalleywatcher.com/mt/archives/2013/08/uncomfortable_facts_a.php).
 
-For instance, here's what the Conflict-of-Interest crayon found in a *Post* [story]((http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/06/heres-what-amazon-lobbies-for-in-d-c/) about the lobbying activities of Bezos's main company, Amazon: 
+For instance, here's what **The Bezos-Post Conflict-of-Interest Crayon
+** crayon found in a *Post* [story]((http://www.washingtonpost.com/blogs/wonkblog/wp/2013/08/06/heres-what-amazon-lobbies-for-in-d-c/) about the lobbying activities of Bezos's main company, Amazon: 
 
 ![WaPo screenshot](https://raw.github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/master/AmazonWaPo1.jpg)
 
-##How to install it
+##How to install the Crayon
 
-To install the bookmarklet, follow these instructions. 
-
-TK
+To install the bookmarklet, [follow the instructions on this page](LINKTK). 
 
 After you've dragged the bookmarklet into your browser's bookmarks bar, head on over to [washingtonpost.com](http://www.washingtonpost.com/). 
 
@@ -31,8 +30,6 @@ The words and phrases identified as potential conflicts of interest are listed i
 I came up with the initial list of approximately 440 keywords based on a couple of hours worth of research on Wikipedia, news websites, NASDAQ, the Securities and Exchange Commission and the Sunlight Foundation's wonderful [Influence Explorer](http://influenceexplorer.com/), which aggregates public records on campaign finance, lobbying, federal regulation and more.
 
 So far the list contains the following:
-
-
 * people closely related, in one way or another, to Bezos; 
 * companies with which Amazon or another Bezos company does business; 
 * companies which compete with Amazon or another Bezos company; 
@@ -42,7 +39,9 @@ So far the list contains the following:
 * common sense extrapolations drawn from the above.
 
 
-The list is by no means complete. It contains a number of redundancies and likely also some inaccuracies. A few sources are listed in the wiki; it would be nice if people wanted to help flesh that out a bit.
+The list is by no means complete. It contains a number of redundancies and likely also some inaccuracies. It could be much, much better. 
+
+A few sources are listed in the wiki; it would be nice if people wanted to help flesh that out a bit.
 
 ###How to contribute
 
@@ -54,11 +53,12 @@ Likewise, if someone makes a convincing argument that something I've included do
 
 ###What does it all mean?
 
-**The Bezos-Post Conflict-of-Interest Crayon** is not a lie detector. Just because it highlights something in a story on the *Post* website doesn't mean the story is false, inaccurate, skewed or misleading. 
+**The Bezos-Post Conflict-of-Interest Crayon** is not a lie detector. 
+Just because it highlights something in a story on the *Post* website doesn't mean the story is false, inaccurate, skewed or misleading. 
 
-It does indicate that the *Post*'s new owner, Jeff Bezos, has an outside stake in something that was mentioned in the story. *Post* readers deserve to know such information, so they can judge the organization's news coverage, editorials and op-ed columns with all of the relevant context.
+It does indicate that the *Post*'s new owner, Jeff Bezos, has an outside stake in something that was mentioned in the story. *Post* readers deserve to know that sort of information so they can judge the organization's news coverage, editorials and op-ed columns with all of the relevant context.
 
-The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_files/irol/62/62487/reports/COBC2003washpostcoposting.pdf), revised in 2003 (and probably again fairly soon), stresses the importance of disclosure in such cases:
+The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_files/irol/62/62487/reports/COBC2003washpostcoposting.pdf), last revised in 2003, stresses the importance of disclosure:
 
 > Although the mere existence of an actual or potential conflict of interest does not imply wrongdoing on anyone's part, eliminating or otherwise appropriately managing such conflicts is essential to maintaining the Company's reputation…
 
