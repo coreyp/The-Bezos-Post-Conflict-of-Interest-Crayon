@@ -72,7 +72,7 @@ The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_
 
 Bezos's business holdings are far, far greater than those of the newspaper's previous owners, as are his lobbying efforts. The *Post*'s coverage demands a new degree of scrunity, especially when it covers stories which could affect the fortunes of its new owner.
 
-I explained more about my rationale for creating the Conflict-of-Interest Crayon [on my website, here](http://coreypein.net/blog/2013/08/07/bezos-post-conflicts-of-interest).
+I explained more about my rationale for creating the Conflict-of-Interest Crayon [on my website, here](http://coreypein.net/blog/2013/08/07/new-tool-highlights-bezos-related-conflicts-in-washington-post-stories).
 
 ###Crayon colors
 
