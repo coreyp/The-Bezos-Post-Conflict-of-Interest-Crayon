@@ -1,14 +1,15 @@
-#The Bezos-Post Conflict-of-Interest Crayon
+##The Bezos-Post
+#Conflict-of-Interest Crayon
 
 This bookmarklet highlights subjects, companies and people which now pose an actual or potential conflict of interest for reporters at the Jeff Bezos-owned Washington Post.
 
 For instance: 
 
-{% image AmazonWaPo1.jpg %}
+{% image https://raw.github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/master/AmazonWaPo1.jpg %}
 
 You can double-click on some highlighted words for a brief explanation, thus:
 
-{% image AmazonWaPo2.jpg %}
+{% image https://raw.github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/master/AmazonWaPo2.jpg %}
 
 ##Installation
 
