@@ -12,9 +12,9 @@ To install the bookmarklet, follow these instructions.
 
 TK
 
-After you've installed the bookmarklet, head over to [washingtonpost.com](http://www.washingtonpost.com/). 
+After you've dragged the bookmarklet into your browser's bookmarks bar, head on over to [washingtonpost.com](http://www.washingtonpost.com/). 
 
-Now, while viewing any article, section front or even the home page, click on the bookmarklet. 
+Now click on the bookmarklet while viewing any *Post* article or section front, including the home page.
 
 After a brief delay for processing, the **Bezos-Post Conflict-of-Interest Crayon** should highlight your electronic copy of the *Post* with yellow streaks of skepticism. 
 
@@ -28,9 +28,10 @@ The bookmarklet will highlight words on any page, even those outside the washing
 
 The words and phrases identified as potential conflicts of interest are listed in a [public wiki, here](https://github.com/coreyp/The-Bezos-Post-Conflict-of-Interest-Crayon/wiki/Running-list-of-potential-ownership-related-conflicts-for-the-Washington-Post).
 
-I came up with the initial list of approximately 440 keywords based on a few hours worth of research on Wikipedia, news websites, NASDAQ, the Securities and Exchange Commission and the Sunlight Foundation's wonderful (Influence Explorer)[http://influenceexplorer.com/], which aggregates public records on campaign finance, lobbying, federal regulation and more.
+I came up with the initial list of approximately 440 keywords based on a couple of hours worth of research on Wikipedia, news websites, NASDAQ, the Securities and Exchange Commission and the Sunlight Foundation's wonderful [Influence Explorer](http://influenceexplorer.com/), which aggregates public records on campaign finance, lobbying, federal regulation and more.
 
-The list so far consists of the following:
+So far the list contains the following:
+
 
 * people closely related, in one way or another, to Bezos; 
 * companies with which Amazon or another Bezos company does business; 
@@ -40,7 +41,8 @@ The list so far consists of the following:
 * politicians and causes supported or opposed, financially or otherwise, by Bezos or Amazon;
 * common sense extrapolations drawn from the above.
 
-Sources are listed in the wiki where possible.
+
+The list is by no means complete. It contains a number of redundancies and likely also some inaccuracies. A few sources are listed in the wiki; it would be nice if people wanted to help flesh that out a bit.
 
 ###How to contribute
 
@@ -48,7 +50,26 @@ Please suggest additional conflicts [in the wiki](https://github.com/coreyp/The-
 
 If I like a suggestion, I'll add it to the script at this repo, which will automatically update the bookmarklet for all users.  
 
-Likewise, if someone makes a convincing argument that something I've included does not pose an actual or potential conflict of interest for Washington Post reporters and editors, I'll remove it from the list.
+Likewise, if someone makes a convincing argument that something I've included does not pose an actual or potential conflict of interest for *Post* reporters and editors, I'll remove it from the list.
+
+###What does it all mean?
+
+**The Bezos-Post Conflict-of-Interest Crayon** is not a lie detector. Just because it highlights something in a story on the *Post* website doesn't mean the story is false, inaccurate, skewed or misleading. 
+
+It does indicate that the *Post*'s new owner, Jeff Bezos, has an outside stake in something that was mentioned in the story. *Post* readers deserve to know such information, so they can judge the organization's news coverage, editorials and op-ed columns with all of the relevant context.
+
+The *Post*'s own [Code of Business conduct](http://media.corporate-ir.net/media_files/irol/62/62487/reports/COBC2003washpostcoposting.pdf), revised in 2003 (and probably again fairly soon), stresses the importance of disclosure in such cases:
+
+> Although the mere existence of an actual or potential conflict of interest does not imply wrongdoing on anyone's part, eliminating or otherwise appropriately managing such conflicts is essential to maintaining the Company's reputation…
+
+> ###Disclosure Required
+
+> When in Doubt, Ask! 
+
+> Employees must promptly and fully disclose to their managers any circumstances they become aware of that could possibly be viewed as creating a conflict of interest, even if the individual employee does not believe that his/her objectivity is being compromised in any way by those circumstances.
+
+Bezos's business holdings are far, far greater than those of the newspaper's previous owners, as are his lobbying efforts. The *Post*'s coverage demands a new degree of scrunity, especially when it covers stories which could affect the fortunes of its new owner.
 
 ---
-*The Bezos-Post Conflict-of-Interest Crayon* is closely based on [Jargone](http://rooreynolds.github.com/jargone/) by [Roo Reynolds](http://rooreynolds.com/about/), who deserves credit for the code.
+###Technical details
+**The Bezos-Post Conflict-of-Interest Crayon** is a javascript and bash tool closely based on [Jargone](http://rooreynolds.github.com/jargone/) by [Roo Reynolds](http://rooreynolds.com/about/), who deserves credit for the code. Fork away, that's what I did.
